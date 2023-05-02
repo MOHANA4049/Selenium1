@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name="browsers" value="chrome"/>
+    <classes>
+      <class name="Day9_4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
